@@ -1,0 +1,15 @@
+⚠️ The subject account shows a pattern of behavior inconsistent with platform rules.
+
+The specific violation: Scam
+
+Automated fingerprinting links this handle to a known abuse cluster.
+
+Core violation on record: Scam. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @Veil026Panel@
+→ https://osint.vault/432yqbj0
+
+Logged: 2026-08-25
+
+Thank you for reviewing this submission.
